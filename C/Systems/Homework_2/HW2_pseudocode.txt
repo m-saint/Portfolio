@@ -1,0 +1,20 @@
+coffee shop is gonna:
+- ask which of the 3 options to run and store that choice in an int
+- ask for an input file and store that name in a string
+- have a switch case for the program number
+- run the corresponding function and print or write the output accordingly
+- for program 3 since it's a lil more in depth, it's gonna:
+   - ask for the item code, output file, and append/overwrite, and store those choices in their respective data types
+   - specifically for the append/overwrite thing, it's gonna have a couple if statements to do whichever the user chooses
+
+point of sale programs is gonna:
+- for the revenue function, it'll open the input file and check how many lines it is using a for loop checking char by char
+- then we'll close it and open it again to start adding up the revenue, skipping the first line, adding up the second column until we hit the number of lines we found earlier
+- close it up, return the rev
+- for register balance, it's the same thing except we don't wanna skip that first row second col entry. 
+- for item sales, we'll explore as before to find the length
+- then start at the top again and scan through the file for the item code that matches the one the user inputted
+- if we find it, we'll increment a counter representing how many times we've seen this code, and we'll also make note of the cost of the item that corresponds to the code
+- then we close up the file, calculate the item-specific revenue by multiplying the number of times it appeared in the input file with the cost of that particular item, and return that final number
+- just kidding lol, apparently just return the number of times it was sold. silly me following the directions.
+

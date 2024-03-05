@@ -1,0 +1,26 @@
+main: 
+- get user input (year)
+- use provided get_year_start to find starting day
+- call printCalendar function with year and starting day as parameters
+
+print calendar:
+- loop 12 times, call printMonth each time, give it year, starting day, and month number (loop index)
+	- change the starting day each time, start with it as the starting day of the year and then for each subsequent month have it use the starting day returned by the previous month's printMonth output
+print month:
+- call printMonthName with year and month number to print the name of the month (and the standard day names) and get the number of days
+- starting with the 1st and ending with the number of days, print the dates
+	- start printing on the given start day, and move to a new line when the week ends
+- return whatever number day of the week you leave off on (on the last pass the index will increment but the loop won't run again after that)
+
+print month name:
+initialize variable that represents the number of days for the given month and year
+switch case: cases 1 thru 12 corresponding to each month. print the corresponding month name with the input year, then set the num_days variable to match the number of days for that month
+   - special for february, have to check if the input year is a leap year
+      - if it's divisible by 4:
+      	- if it's divisible by 100:
+	    - if it's div by 400: leap year 
+               - else no
+	- else yes
+      - else no
+print the days of the week
+return the number of days at the end;

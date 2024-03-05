@@ -1,0 +1,18 @@
+get_totals: 
+- open up the file we wanna write to
+- for every item we sell, count up the sales across all months, then print it to the file and repeat
+
+get_profits:
+- open up our file
+- print out the colum labels all nice n pretty
+- same as get_totals, count up how many we sold of each item
+- but also for each item, use that number sold along with the price and cost of that item to calculate total sales cost and revenue for that item
+- print alll that to the file and repeat
+
+ top_earner:
+- make an array to store code, quantity, and total revenue for each item
+- just like before, count up our sales and do the math
+- but then we gotta store those numbers in an array instead of printing right away
+- so we then loop through our array, and sort it by revenue, highest to lowest
+  - one by one, the higher revenues will rise (with their corresponding code and quantity) to the top and the lower ones will sink down till we're all nice and ordered
+- now we get to print the first 10 earners to the file
