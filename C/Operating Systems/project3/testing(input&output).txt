@@ -1,0 +1,266 @@
+Instruction? 0,map,0,1
+page table for process 0 allocated on physical frame 0
+virtual page 0 mapped to physical frame 1
+
+Instruction? 1,map,16,1
+page table for process 1 allocated on physical frame 2
+virtual page 1 mapped to physical frame 3
+
+Instruction? 2,map,32,1
+
+wrote page table for process 0 (physical frame 0) to disk
+
+page table for process 2 allocated on physical frame 0
+
+wrote pid 0 virtual page 0 (physical frame 1) to disk
+
+virtual page 2 mapped to physical frame 1
+
+Instruction? 3,map,48,1
+
+wrote pid 1 virtual page 1 (physical frame 3) to disk
+
+page table for process 3 allocated on physical frame 3
+
+wrote page table for process 2 (physical frame 0) to disk
+
+virtual page 3 mapped to physical frame 0
+
+Instruction? 0,store,0,0
+
+wrote page table for process 3 (physical frame 3) to disk
+
+moved page table for process 0 from disk into physical frame 3
+
+wrote page table for process 1 (physical frame 2) to disk
+
+moved virtual page 0 from disk to physical frame 2
+stored value 0 at physical address 32
+
+Instruction? 1,store,16,17
+
+wrote pid 0 virtual page 0 (physical frame 2) to disk
+
+moved page table for process 1 from disk into physical frame 2
+
+wrote page table for process 0 (physical frame 3) to disk
+
+moved virtual page 1 from disk to physical frame 3
+stored value 17 at physical address 48
+
+Instruction? 2,store,32,34
+
+wrote pid 1 virtual page 1 (physical frame 3) to disk
+
+moved page table for process 2 from disk into physical frame 3
+stored value 34 at physical address 16
+
+Instruction? 3,store,48,51
+
+wrote page table for process 2 (physical frame 3) to disk
+
+moved page table for process 3 from disk into physical frame 3
+stored value 51 at physical address 0
+
+Instruction? 0,load,0,0
+
+wrote page table for process 1 (physical frame 2) to disk
+
+moved page table for process 0 from disk into physical frame 2
+
+wrote page table for process 3 (physical frame 3) to disk
+
+moved virtual page 0 from disk to physical frame 3
+value 0 is stored at physical address 48
+
+Instruction? 1,load,16,0
+
+wrote pid 0 virtual page 0 (physical frame 3) to disk
+
+moved page table for process 1 from disk into physical frame 3
+
+wrote page table for process 0 (physical frame 2) to disk
+
+moved virtual page 1 from disk to physical frame 2
+value 17 is stored at physical address 32
+
+Instruction? 2,load,32,0
+
+wrote pid 1 virtual page 1 (physical frame 2) to disk
+
+moved page table for process 2 from disk into physical frame 2
+value 34 is stored at physical address 16
+
+Instruction? 3,load,48,0
+
+wrote page table for process 1 (physical frame 3) to disk
+
+moved page table for process 3 from disk into physical frame 3
+value 51 is stored at physical address 0
+
+Instruction? 0,map,48,0
+
+wrote page table for process 2 (physical frame 2) to disk
+
+moved page table for process 0 from disk into physical frame 2
+
+wrote page table for process 3 (physical frame 3) to disk
+
+virtual page 3 mapped to physical frame 3
+
+Instruction? 0,map,48,1
+updated permissions for virtual page 3
+
+Instruction? 1,map,32,1
+
+wrote pid 0 virtual page 3 (physical frame 3) to disk
+
+moved page table for process 1 from disk into physical frame 3
+
+wrote page table for process 0 (physical frame 2) to disk
+
+virtual page 2 mapped to physical frame 2
+
+Instruction? 2,map,16,1
+
+wrote pid 1 virtual page 2 (physical frame 2) to disk
+
+moved page table for process 2 from disk into physical frame 2
+
+wrote page table for process 1 (physical frame 3) to disk
+
+virtual page 1 mapped to physical frame 3
+
+Instruction? 3,map,0,1
+
+wrote pid 2 virtual page 1 (physical frame 3) to disk
+
+moved page table for process 3 from disk into physical frame 3
+
+wrote page table for process 2 (physical frame 2) to disk
+
+virtual page 0 mapped to physical frame 2
+
+Instruction? 0,store,48,48
+
+wrote pid 3 virtual page 0 (physical frame 2) to disk
+
+moved page table for process 0 from disk into physical frame 2
+
+wrote pid 3 virtual page 3 (physical frame 0) to disk
+
+moved virtual page 3 from disk to physical frame 0
+stored value 48 at physical address 0
+
+Instruction? 1,store,32,33
+
+wrote page table for process 0 (physical frame 2) to disk
+
+moved page table for process 1 from disk into physical frame 2
+
+wrote page table for process 3 (physical frame 3) to disk
+
+moved virtual page 2 from disk to physical frame 3
+stored value 33 at physical address 48
+
+Instruction? 2,store,16,18
+
+wrote pid 1 virtual page 2 (physical frame 3) to disk
+
+moved page table for process 2 from disk into physical frame 3
+
+wrote page table for process 1 (physical frame 2) to disk
+
+moved virtual page 1 from disk to physical frame 2
+stored value 18 at physical address 32
+
+Instruction? 3,store,0,3
+
+wrote pid 2 virtual page 2 (physical frame 1) to disk
+
+moved page table for process 3 from disk into physical frame 1
+
+wrote pid 2 virtual page 1 (physical frame 2) to disk
+
+moved virtual page 0 from disk to physical frame 2
+stored value 3 at physical address 32
+
+Instruction? 0,load,48,0
+
+wrote pid 3 virtual page 0 (physical frame 2) to disk
+
+moved page table for process 0 from disk into physical frame 2
+value 48 is stored at physical address 0
+
+Instruction? 1,load,32,0
+
+wrote page table for process 2 (physical frame 3) to disk
+
+moved page table for process 1 from disk into physical frame 3
+
+wrote pid 0 virtual page 3 (physical frame 0) to disk
+
+moved virtual page 2 from disk to physical frame 0
+value 33 is stored at physical address 0
+
+Instruction? 2,load,16,0
+
+wrote page table for process 1 (physical frame 3) to disk
+
+moved page table for process 2 from disk into physical frame 3
+
+wrote page table for process 0 (physical frame 2) to disk
+
+moved virtual page 1 from disk to physical frame 2
+value 18 is stored at physical address 32
+
+Instruction? 3,load,0,0
+
+wrote pid 2 virtual page 1 (physical frame 2) to disk
+
+moved virtual page 0 from disk to physical frame 2
+value 3 is stored at physical address 32
+
+Instruction? 0,load,0,0
+
+wrote page table for process 3 (physical frame 1) to disk
+
+moved page table for process 0 from disk into physical frame 1
+
+wrote page table for process 2 (physical frame 3) to disk
+
+moved virtual page 0 from disk to physical frame 3
+value 0 is stored at physical address 48
+
+Instruction? 1,load,16,0
+
+wrote pid 0 virtual page 0 (physical frame 3) to disk
+
+moved page table for process 1 from disk into physical frame 3
+
+wrote page table for process 0 (physical frame 1) to disk
+
+moved virtual page 1 from disk to physical frame 1
+value 17 is stored at physical address 16
+
+Instruction? 2,load,32,0
+
+wrote pid 1 virtual page 2 (physical frame 0) to disk
+
+moved page table for process 2 from disk into physical frame 0
+
+wrote page table for process 1 (physical frame 3) to disk
+
+moved virtual page 2 from disk to physical frame 3
+value 34 is stored at physical address 48
+
+Instruction? 3,load,48,0
+
+wrote pid 2 virtual page 2 (physical frame 3) to disk
+
+moved page table for process 3 from disk into physical frame 3
+
+wrote page table for process 2 (physical frame 0) to disk
+
+moved virtual page 3 from disk to physical frame 0
+value 51 is stored at physical address 0

@@ -1,0 +1,9 @@
+Myles St. Jean - Project 4
+
+overview:
+
+Workloads are read from input files and stored as linked lists of structs, in the given order. the desired policy is then called, given a pointer to the first job in the list. for fifo, it just prints out the jobs. for sjf, it re orders the elements by swapping pairs of them if they're out of order. then once it's done it just prints the list out. for rr, there is no initial re ordering, so it just runs through the list, running each job for a time slice before moving on and updating the job with its remaining time left. It then comes back to the start of the list, and does it again. jobs will of course eventually have a remaining time of 0, and when all jobs reach that state we can stop looping and we're done. 
+
+for analysis, I added response time, turnaround time, and wait time to the struct. then as the policy runs, these are filled in / updated with the correct values for each job. So once the policy is done, we have all the info we need and we can use it for calculations. to print it out it just runs through the list once again and prints each field for each job.
+
+for details, see comments

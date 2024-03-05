@@ -1,0 +1,777 @@
+
+[running shoe #0]: pre-queue waiting for 3 seconds
+
+[running shoe #1]: pre-queue waiting for 3 seconds
+
+[running shoe #2]: pre-queue waiting for 2 seconds
+
+[running shoe #3]: pre-queue waiting for 1 seconds
+
+[running shoe #4]: pre-queue waiting for 1 seconds
+
+[running shoe #5]: pre-queue waiting for 3 seconds
+
+[running shoe #6]: pre-queue waiting for 2 seconds
+
+[running shoe #7]: pre-queue waiting for 2 seconds
+
+[running shoe #8]: pre-queue waiting for 1 seconds
+
+[running shoe #9]: pre-queue waiting for 3 seconds
+
+[running shoe #10]: pre-queue waiting for 1 seconds
+
+[running shoe #11]: pre-queue waiting for 3 seconds
+
+[running shoe #12]: pre-queue waiting for 1 seconds
+
+[running shoe #13]: pre-queue waiting for 3 seconds
+
+[running shoe #14]: pre-queue waiting for 1 seconds
+
+[running shoe #15]: pre-queue waiting for 1 seconds
+
+[running shoe #16]: pre-queue waiting for 3 seconds
+
+[running shoe #18]: pre-queue waiting for 2 seconds
+
+[running shoe #17]: pre-queue waiting for 2 seconds
+
+[dress shoe #0]: pre-queue waiting for 2 seconds
+
+[dress shoe #1]: pre-queue waiting for 2 seconds
+
+[dress shoe #3]: pre-queue waiting for 1 seconds
+
+[dress shoe #2]: pre-queue waiting for 3 seconds
+
+[dress shoe #4]: pre-queue waiting for 1 seconds
+
+[dress shoe #6]: pre-queue waiting for 1 seconds
+
+[dress shoe #5]: pre-queue waiting for 3 seconds
+
+[dress shoe #7]: pre-queue waiting for 2 seconds
+
+[dress shoe #8]: pre-queue waiting for 1 seconds
+
+[dress shoe #9]: pre-queue waiting for 1 seconds
+
+[dress shoe #10]: pre-queue waiting for 1 seconds
+
+[dress shoe #11]: pre-queue waiting for 1 seconds
+
+[dress shoe #12]: pre-queue waiting for 2 seconds
+
+[dress shoe #13]: pre-queue waiting for 1 seconds
+
+[dress shoe #14]: pre-queue waiting for 3 seconds
+
+[dress shoe #15]: pre-queue waiting for 2 seconds
+
+[dress shoe #16]: pre-queue waiting for 1 seconds
+
+[crossover shoe #0]: pre-queue waiting for 2 seconds
+
+[crossover shoe #1]: pre-queue waiting for 1 seconds
+
+[crossover shoe #2]: pre-queue waiting for 2 seconds
+
+[crossover shoe #3]: pre-queue waiting for 2 seconds
+
+[crossover shoe #4]: pre-queue waiting for 3 seconds
+
+[crossover shoe #5]: pre-queue waiting for 3 seconds
+
+[crossover shoe #6]: pre-queue waiting for 1 seconds
+
+[crossover shoe #7]: pre-queue waiting for 3 seconds
+
+[crossover shoe #8]: pre-queue waiting for 2 seconds
+
+[crossover shoe #9]: pre-queue waiting for 2 seconds
+
+[crossover shoe #10]: pre-queue waiting for 1 seconds
+
+[crossover shoe #11]: pre-queue waiting for 1 seconds
+
+[crossover shoe #12]: pre-queue waiting for 3 seconds
+
+[crossover shoe #13]: pre-queue waiting for 3 seconds
+
+[running shoe #3]: taking shoebox 0
+[running shoe #3]: current streak is 1
+[running shoe #3]: on-stage talking for 3 seconds
+
+[running shoe #4]: taking shoebox 1
+[running shoe #4]: current streak is 2
+[running shoe #4]: on-stage talking for 1 seconds
+
+[running shoe #8]: taking shoebox 2
+[running shoe #8]: current streak is 3
+[running shoe #8]: on-stage talking for 3 seconds
+
+[running shoe #12]: taking shoebox 3
+[running shoe #12]: current streak is 4
+[running shoe #12]: on-stage talking for 2 seconds
+
+[running shoe #10]: taking shoebox 4
+[running shoe #10]: current streak is 5
+[running shoe #10]: on-stage talking for 1 seconds
+
+[running shoe #15]: pre-queue waiting for 2 seconds
+
+[running shoe #14]: pre-queue waiting for 1 seconds
+
+[dress shoe #3]: cannot enter
+
+[dress shoe #4]: cannot enter
+
+[dress shoe #8]: cannot enter
+
+[dress shoe #6]: cannot enter
+
+[dress shoe #9]: cannot enter
+
+[dress shoe #10]: cannot enter
+
+[dress shoe #11]: cannot enter
+
+[dress shoe #13]: cannot enter
+
+[dress shoe #16]: cannot enter
+
+[crossover shoe #1]: cannot enter
+
+[crossover shoe #6]: cannot enter
+
+[crossover shoe #10]: cannot enter
+
+[crossover shoe #11]: cannot enter
+
+[running shoe #2]: pre-queue waiting for 3 seconds
+
+[running shoe #4]: leaving shoebox 1
+[running shoe #4]: post-stage resting for 9 seconds
+
+[running shoe #6]: taking shoebox 1
+[running shoe #6]: current streak is 6
+[running shoe #6]: on-stage talking for 3 seconds
+
+[running shoe #7]: pre-queue waiting for 2 seconds
+
+[running shoe #10]: leaving shoebox 4
+[running shoe #10]: post-stage resting for 10 seconds
+
+[running shoe #18]: taking shoebox 4
+[running shoe #18]: current streak is 7
+[running shoe #18]: on-stage talking for 2 seconds
+
+[dress shoe #1]: cannot enter
+
+[running shoe #17]: pre-queue waiting for 2 seconds
+
+[dress shoe #0]: cannot enter
+
+[running shoe #14]: pre-queue waiting for 2 seconds
+
+[dress shoe #7]: cannot enter
+
+[dress shoe #12]: cannot enter
+
+[dress shoe #15]: cannot enter
+
+[crossover shoe #0]: cannot enter
+
+[crossover shoe #2]: cannot enter
+
+[crossover shoe #3]: cannot enter
+
+[crossover shoe #8]: cannot enter
+
+[crossover shoe #9]: cannot enter
+
+[running shoe #0]: pre-queue waiting for 3 seconds
+
+[running shoe #1]: pre-queue waiting for 3 seconds
+
+[running shoe #5]: pre-queue waiting for 3 seconds
+
+[running shoe #12]: leaving shoebox 3
+[running shoe #12]: post-stage resting for 9 seconds
+
+[running shoe #16]: taking shoebox 3
+[running shoe #16]: current streak is 8
+[running shoe #16]: on-stage talking for 2 seconds
+
+[running shoe #11]: pre-queue waiting for 2 seconds
+
+[running shoe #9]: pre-queue waiting for 3 seconds
+
+[running shoe #15]: pre-queue waiting for 1 seconds
+
+[running shoe #13]: pre-queue waiting for 3 seconds
+
+[dress shoe #2]: cannot enter
+
+[dress shoe #5]: cannot enter
+
+[dress shoe #14]: cannot enter
+
+[crossover shoe #4]: cannot enter
+
+[crossover shoe #5]: cannot enter
+
+[crossover shoe #7]: cannot enter
+
+[crossover shoe #12]: cannot enter
+
+[crossover shoe #13]: cannot enter
+
+[running shoe #3]: leaving shoebox 0
+[running shoe #3]: post-stage resting for 12 seconds
+
+[running shoe #7]: taking shoebox 0
+[running shoe #7]: current streak is 9
+[running shoe #7]: on-stage talking for 2 seconds
+
+[running shoe #8]: leaving shoebox 2
+[running shoe #8]: post-stage resting for 18 seconds
+
+[running shoe #17]: taking shoebox 2
+[running shoe #17]: current streak is 10
+[running shoe #17]: on-stage talking for 1 seconds
+
+[running shoe #18]: leaving shoebox 4
+[running shoe #18]: post-stage resting for 20 seconds
+
+[running shoe #15]: taking shoebox 4
+[running shoe #15]: current streak is 11
+[running shoe #15]: on-stage talking for 3 seconds
+
+[running shoe #14]: pre-queue waiting for 1 seconds
+
+[running shoe #2]: pre-queue waiting for 2 seconds
+
+[running shoe #6]: leaving shoebox 1
+[running shoe #6]: post-stage resting for 20 seconds
+
+[running shoe #11]: taking shoebox 1
+[running shoe #11]: current streak is 12
+[running shoe #11]: on-stage talking for 1 seconds
+
+[running shoe #16]: leaving shoebox 3
+[running shoe #16]: post-stage resting for 20 seconds
+
+[running shoe #17]: leaving shoebox 2
+[running shoe #17]: post-stage resting for 21 seconds
+
+[running shoe #14]: taking shoebox 2
+[running shoe #14]: current streak is 13
+[running shoe #14]: on-stage talking for 2 seconds
+
+[running shoe #0]: taking shoebox 3
+[running shoe #0]: current streak is 14
+[running shoe #0]: on-stage talking for 3 seconds
+
+[running shoe #1]: pre-queue waiting for 3 seconds
+
+[running shoe #5]: pre-queue waiting for 1 seconds
+
+[running shoe #7]: leaving shoebox 0
+[running shoe #7]: post-stage resting for 17 seconds
+
+[running shoe #9]: pre-queue waiting for 1 seconds
+
+[running shoe #13]: taking shoebox 0
+[running shoe #13]: current streak is 15
+[running shoe #13]: on-stage talking for 1 seconds
+
+[running shoe #11]: leaving shoebox 1
+[running shoe #11]: post-stage resting for 19 seconds
+
+[running shoe #2]: taking shoebox 1
+[running shoe #2]: current streak is 16
+[running shoe #2]: on-stage talking for 3 seconds
+
+[running shoe #13]: leaving shoebox 0
+[running shoe #13]: post-stage resting for 21 seconds
+
+[running shoe #9]: taking shoebox 0
+[running shoe #9]: current streak is 17
+[running shoe #9]: on-stage talking for 1 seconds
+
+[running shoe #5]: pre-queue waiting for 2 seconds
+
+[running shoe #15]: leaving shoebox 4
+[running shoe #15]: post-stage resting for 17 seconds
+
+[running shoe #14]: leaving shoebox 2
+[running shoe #14]: post-stage resting for 18 seconds
+
+[running shoe #9]: leaving shoebox 0
+[running shoe #9]: post-stage resting for 22 seconds
+
+[running shoe #0]: leaving shoebox 3
+[running shoe #0]: post-stage resting for 22 seconds
+
+[running shoe #1]: taking shoebox 0
+[running shoe #1]: current streak is 18
+[running shoe #1]: on-stage talking for 2 seconds
+
+[running shoe #5]: taking shoebox 2
+[running shoe #5]: current streak is 19
+[running shoe #5]: on-stage talking for 1 seconds
+
+[running shoe #2]: leaving shoebox 1
+[running shoe #2]: post-stage resting for 17 seconds
+
+[running shoe #5]: leaving shoebox 2
+[running shoe #5]: post-stage resting for 22 seconds
+
+[running shoe #1]: leaving shoebox 0
+[running shoe #1]:there are 17 dress shoes waiting
+[running shoe #1]:there are 14 crossover shoes waiting
+[running shoe #1]: UPDATED STAGE TYPE, SIGNALING WAITING DRESS SHOES
+
+[running shoe #1]: post-stage resting for 8 seconds
+
+[dress shoe #15]: taking shoebox 0
+[dress shoe #15]: current streak is 1
+[dress shoe #15]: on-stage talking for 3 seconds
+
+[dress shoe #14]: taking shoebox 1
+[dress shoe #14]: current streak is 2
+[dress shoe #14]: on-stage talking for 2 seconds
+
+[dress shoe #1]: taking shoebox 2
+[dress shoe #1]: current streak is 3
+[dress shoe #1]: on-stage talking for 1 seconds
+
+[dress shoe #13]: taking shoebox 3
+[dress shoe #13]: current streak is 4
+[dress shoe #13]: on-stage talking for 1 seconds
+
+[dress shoe #5]: taking shoebox 4
+[dress shoe #5]: current streak is 5
+[dress shoe #5]: on-stage talking for 3 seconds
+
+[dress shoe #12]: pre-queue waiting for 3 seconds
+
+[dress shoe #7]: pre-queue waiting for 2 seconds
+
+[dress shoe #3]: pre-queue waiting for 2 seconds
+
+[dress shoe #0]: pre-queue waiting for 2 seconds
+
+[dress shoe #2]: pre-queue waiting for 1 seconds
+
+[dress shoe #11]: pre-queue waiting for 1 seconds
+
+[dress shoe #10]: pre-queue waiting for 2 seconds
+
+[dress shoe #16]: pre-queue waiting for 1 seconds
+
+[dress shoe #8]: pre-queue waiting for 2 seconds
+
+[dress shoe #4]: pre-queue waiting for 2 seconds
+
+[running shoe #4]: pre-queue waiting for 2 seconds
+
+[dress shoe #9]: pre-queue waiting for 2 seconds
+
+[dress shoe #6]: pre-queue waiting for 3 seconds
+
+[dress shoe #1]: leaving shoebox 2
+[dress shoe #1]: post-stage resting for 9 seconds
+
+[dress shoe #2]: taking shoebox 2
+[dress shoe #2]: current streak is 6
+[dress shoe #2]: on-stage talking for 2 seconds
+
+[dress shoe #11]: pre-queue waiting for 3 seconds
+
+[dress shoe #13]: leaving shoebox 3
+[dress shoe #13]: post-stage resting for 10 seconds
+
+[dress shoe #16]: pre-queue waiting for 1 seconds
+
+[running shoe #10]: pre-queue waiting for 2 seconds
+
+[running shoe #12]: pre-queue waiting for 3 seconds
+
+[dress shoe #14]: leaving shoebox 1
+[dress shoe #14]: post-stage resting for 9 seconds
+
+[dress shoe #10]: taking shoebox 1
+[dress shoe #10]: current streak is 7
+[dress shoe #10]: on-stage talking for 1 seconds
+
+[dress shoe #8]: taking shoebox 3
+[dress shoe #8]: current streak is 8
+[dress shoe #8]: on-stage talking for 3 seconds
+
+[running shoe #4]: cannot enter
+
+[dress shoe #4]: pre-queue waiting for 1 seconds
+
+[dress shoe #0]: pre-queue waiting for 2 seconds
+
+[dress shoe #7]: pre-queue waiting for 1 seconds
+
+[dress shoe #16]: pre-queue waiting for 2 seconds
+
+[dress shoe #3]: pre-queue waiting for 1 seconds
+
+[dress shoe #9]: pre-queue waiting for 3 seconds
+
+[dress shoe #15]: leaving shoebox 0
+[dress shoe #15]: post-stage resting for 11 seconds
+
+[dress shoe #5]: leaving shoebox 4
+[dress shoe #5]: post-stage resting for 8 seconds
+
+[dress shoe #6]: taking shoebox 0
+[dress shoe #6]: current streak is 9
+[dress shoe #6]: on-stage talking for 3 seconds
+
+[dress shoe #2]: leaving shoebox 2
+[dress shoe #2]: post-stage resting for 17 seconds
+
+[dress shoe #12]: taking shoebox 2
+[dress shoe #12]: current streak is 10
+[dress shoe #12]: on-stage talking for 3 seconds
+
+[dress shoe #10]: leaving shoebox 1
+[dress shoe #10]: post-stage resting for 19 seconds
+
+[dress shoe #4]: taking shoebox 1
+[dress shoe #4]: current streak is 11
+[dress shoe #4]: on-stage talking for 1 seconds
+
+[dress shoe #7]: taking shoebox 4
+[dress shoe #7]: current streak is 12
+[dress shoe #7]: on-stage talking for 3 seconds
+
+[dress shoe #3]: pre-queue waiting for 3 seconds
+
+[running shoe #10]: cannot enter
+
+[dress shoe #11]: pre-queue waiting for 3 seconds
+
+[dress shoe #0]: pre-queue waiting for 1 seconds
+
+[dress shoe #4]: leaving shoebox 1
+[dress shoe #4]: post-stage resting for 23 seconds
+
+[dress shoe #16]: pre-queue waiting for 1 seconds
+
+[running shoe #12]: cannot enter
+
+[running shoe #3]: pre-queue waiting for 1 seconds
+
+[dress shoe #8]: leaving shoebox 3
+[dress shoe #8]: post-stage resting for 18 seconds
+
+[dress shoe #16]: taking shoebox 1
+[dress shoe #16]: current streak is 13
+[dress shoe #16]: on-stage talking for 3 seconds
+
+[dress shoe #0]: taking shoebox 3
+[dress shoe #0]: current streak is 14
+[dress shoe #0]: on-stage talking for 3 seconds
+
+[dress shoe #9]: pre-queue waiting for 1 seconds
+
+[running shoe #3]: cannot enter
+
+[dress shoe #6]: leaving shoebox 0
+[dress shoe #6]: post-stage resting for 20 seconds
+
+[dress shoe #12]: leaving shoebox 2
+[dress shoe #12]: post-stage resting for 20 seconds
+
+[dress shoe #7]: leaving shoebox 4
+[dress shoe #7]: post-stage resting for 18 seconds
+
+[dress shoe #3]: taking shoebox 0
+[dress shoe #3]: current streak is 15
+[dress shoe #3]: on-stage talking for 2 seconds
+
+[dress shoe #9]: taking shoebox 2
+[dress shoe #9]: current streak is 16
+[dress shoe #9]: on-stage talking for 1 seconds
+
+[dress shoe #11]: taking shoebox 4
+[dress shoe #11]: current streak is 17
+[dress shoe #11]: on-stage talking for 2 seconds
+
+[dress shoe #9]: leaving shoebox 2
+[dress shoe #9]: post-stage resting for 22 seconds
+
+[running shoe #1]: pre-queue waiting for 2 seconds
+
+[dress shoe #3]: leaving shoebox 0
+[dress shoe #3]: post-stage resting for 20 seconds
+
+[dress shoe #0]: leaving shoebox 3
+[dress shoe #0]: post-stage resting for 17 seconds
+
+[dress shoe #16]: leaving shoebox 1
+[dress shoe #16]: post-stage resting for 18 seconds
+
+[dress shoe #11]: leaving shoebox 4
+[dress shoe #11]: there are 14 crossover shoes waiting
+[dress shoe #11]: there are 4 running shoes waiting
+[dress shoe #11]: UPDATED STAGE TYPE, SIGNALING WAITING CROSSOVER SHOES
+[dress shoe #11]: post-stage resting for 9 seconds
+
+[crossover shoe #1]: taking shoebox 0
+[crossover shoe #1]: current streak is 1
+[crossover shoe #1]: on-stage talking for 3 seconds
+
+[crossover shoe #6]: taking shoebox 1
+[crossover shoe #6]: current streak is 2
+[crossover shoe #6]: on-stage talking for 2 seconds
+
+[crossover shoe #0]: taking shoebox 2
+[crossover shoe #0]: current streak is 3
+[crossover shoe #0]: on-stage talking for 3 seconds
+
+[crossover shoe #2]: taking shoebox 3
+[crossover shoe #2]: current streak is 4
+[crossover shoe #2]: on-stage talking for 3 seconds
+
+[crossover shoe #3]: taking shoebox 4
+[crossover shoe #3]: current streak is 5
+[crossover shoe #3]: on-stage talking for 2 seconds
+
+[crossover shoe #9]: pre-queue waiting for 3 seconds
+
+[crossover shoe #11]: pre-queue waiting for 2 seconds
+
+[crossover shoe #10]: pre-queue waiting for 3 seconds
+
+[crossover shoe #5]: pre-queue waiting for 2 seconds
+
+[crossover shoe #7]: pre-queue waiting for 1 seconds
+
+[crossover shoe #8]: pre-queue waiting for 2 seconds
+
+[crossover shoe #4]: pre-queue waiting for 1 seconds
+
+[crossover shoe #12]: pre-queue waiting for 3 seconds
+
+[crossover shoe #13]: pre-queue waiting for 1 seconds
+
+[running shoe #1]: cannot enter
+
+[dress shoe #1]: pre-queue waiting for 1 seconds
+
+[crossover shoe #7]: pre-queue waiting for 2 seconds
+
+[crossover shoe #4]: pre-queue waiting for 1 seconds
+
+[crossover shoe #13]: pre-queue waiting for 3 seconds
+
+[dress shoe #13]: pre-queue waiting for 3 seconds
+
+[dress shoe #14]: pre-queue waiting for 3 seconds
+
+[dress shoe #5]: pre-queue waiting for 2 seconds
+
+[dress shoe #1]: cannot enter
+
+[crossover shoe #6]: leaving shoebox 1
+[crossover shoe #6]: post-stage resting for 10 seconds
+
+[crossover shoe #3]: leaving shoebox 4
+[crossover shoe #3]: post-stage resting for 8 seconds
+
+[crossover shoe #8]: taking shoebox 1
+[crossover shoe #8]: current streak is 6
+[crossover shoe #8]: on-stage talking for 3 seconds
+
+[crossover shoe #5]: taking shoebox 4
+[crossover shoe #5]: current streak is 7
+[crossover shoe #5]: on-stage talking for 1 seconds
+
+[crossover shoe #11]: pre-queue waiting for 1 seconds
+
+[crossover shoe #4]: pre-queue waiting for 2 seconds
+
+[running shoe #8]: pre-queue waiting for 2 seconds
+
+[crossover shoe #1]: leaving shoebox 0
+[crossover shoe #1]: post-stage resting for 12 seconds
+
+[crossover shoe #0]: leaving shoebox 2
+[crossover shoe #0]: post-stage resting for 12 seconds
+
+[crossover shoe #2]: leaving shoebox 3
+[crossover shoe #2]: post-stage resting for 10 seconds
+
+[crossover shoe #9]: taking shoebox 0
+[crossover shoe #9]: current streak is 8
+[crossover shoe #9]: on-stage talking for 1 seconds
+
+[crossover shoe #12]: taking shoebox 2
+[crossover shoe #12]: current streak is 9
+[crossover shoe #12]: on-stage talking for 3 seconds
+
+[crossover shoe #7]: taking shoebox 3
+[crossover shoe #7]: current streak is 10
+[crossover shoe #7]: on-stage talking for 1 seconds
+
+[crossover shoe #5]: leaving shoebox 4
+[crossover shoe #5]: post-stage resting for 21 seconds
+
+[crossover shoe #10]: pre-queue waiting for 2 seconds
+
+[crossover shoe #11]: taking shoebox 4
+[crossover shoe #11]: current streak is 11
+[crossover shoe #11]: on-stage talking for 3 seconds
+
+[running shoe #7]: pre-queue waiting for 1 seconds
+
+[dress shoe #5]: cannot enter
+
+[crossover shoe #9]: leaving shoebox 0
+[crossover shoe #9]: post-stage resting for 19 seconds
+
+[crossover shoe #13]: taking shoebox 0
+[crossover shoe #13]: current streak is 12
+[crossover shoe #13]: on-stage talking for 1 seconds
+
+[crossover shoe #7]: leaving shoebox 3
+[crossover shoe #7]: post-stage resting for 22 seconds
+
+[crossover shoe #4]: taking shoebox 3
+[crossover shoe #4]: current streak is 13
+[crossover shoe #4]: on-stage talking for 1 seconds
+
+[running shoe #7]: cannot enter
+
+[running shoe #15]: pre-queue waiting for 2 seconds
+
+[running shoe #18]: pre-queue waiting for 1 seconds
+
+[running shoe #8]: cannot enter
+
+[dress shoe #13]: cannot enter
+
+[dress shoe #15]: pre-queue waiting for 2 seconds
+
+[dress shoe #14]: cannot enter
+
+[crossover shoe #8]: leaving shoebox 1
+[crossover shoe #8]: post-stage resting for 17 seconds
+
+[crossover shoe #13]: leaving shoebox 0
+[crossover shoe #13]: post-stage resting for 21 seconds
+
+[crossover shoe #10]: taking shoebox 0
+[crossover shoe #10]: current streak is 14
+[crossover shoe #10]: on-stage talking for 2 seconds
+
+[running shoe #6]: pre-queue waiting for 2 seconds
+
+[running shoe #16]: pre-queue waiting for 1 seconds
+
+[running shoe #11]: pre-queue waiting for 1 seconds
+
+[crossover shoe #4]: leaving shoebox 3
+[crossover shoe #4]: post-stage resting for 17 seconds
+
+[running shoe #14]: pre-queue waiting for 3 seconds
+
+[running shoe #18]: cannot enter
+
+[crossover shoe #12]: leaving shoebox 2
+[crossover shoe #12]: post-stage resting for 20 seconds
+
+[crossover shoe #11]: leaving shoebox 4
+[crossover shoe #11]: post-stage resting for 21 seconds
+
+[running shoe #17]: pre-queue waiting for 3 seconds
+
+[running shoe #16]: cannot enter
+
+[running shoe #15]: cannot enter
+
+[running shoe #11]: cannot enter
+
+[running shoe #2]: pre-queue waiting for 3 seconds
+
+[dress shoe #15]: cannot enter
+
+[crossover shoe #10]: leaving shoebox 0
+[crossover shoe #10]: there are 11 running shoes waiting
+[crossover shoe #10]: there are 5 dress shoes waiting
+[crossover shoe #10]: UPDATED STAGE TYPE, SIGNALING WAITING RUNNING SHOES
+[crossover shoe #10]: post-stage resting for 12 seconds
+
+[running shoe #4]: taking shoebox 0
+[running shoe #4]: current streak is 1
+[running shoe #4]: on-stage talking for 2 seconds
+
+[running shoe #10]: taking shoebox 1
+[running shoe #10]: current streak is 2
+[running shoe #10]: on-stage talking for 3 seconds
+
+[running shoe #12]: taking shoebox 2
+[running shoe #12]: current streak is 3
+[running shoe #12]: on-stage talking for 2 seconds
+
+[running shoe #11]: taking shoebox 3
+[running shoe #11]: current streak is 4
+[running shoe #11]: on-stage talking for 3 seconds
+
+[running shoe #15]: taking shoebox 4
+[running shoe #15]: current streak is 5
+[running shoe #15]: on-stage talking for 1 seconds
+
+[running shoe #15]: leaving shoebox 4
+[running shoe #15]: post-stage resting for 8 seconds
+
+[running shoe #13]: pre-queue waiting for 1 seconds
+
+[running shoe #14]: taking shoebox 4
+[running shoe #14]: current streak is 6
+[running shoe #14]: on-stage talking for 3 seconds
+
+[dress shoe #11]: pre-queue waiting for 3 seconds
+
+[running shoe #4]: leaving shoebox 0
+[running shoe #4]: post-stage resting for 11 seconds
+
+[running shoe #12]: leaving shoebox 2
+[running shoe #12]: post-stage resting for 11 seconds
+
+[running shoe #13]: taking shoebox 0
+[running shoe #13]: current streak is 7
+[running shoe #13]: on-stage talking for 3 seconds
+
+[running shoe #17]: taking shoebox 2
+[running shoe #17]: current streak is 8
+[running shoe #17]: on-stage talking for 2 seconds
+
+[crossover shoe #3]: pre-queue waiting for 3 seconds
+
+[running shoe #10]: leaving shoebox 1
+[running shoe #10]: post-stage resting for 8 seconds
+
+[running shoe #11]: leaving shoebox 3
+[running shoe #11]: post-stage resting for 8 seconds
+
+[running shoe #9]: pre-queue waiting for 3 seconds
+
+[running shoe #0]: pre-queue waiting for 2 seconds
+
+[dress shoe #2]: pre-queue waiting for 3 seconds
+
+[running shoe #14]: leaving shoebox 4
+[running shoe #14]: post-stage resting for 8 seconds
+
+[running shoe #17]: leaving shoebox 2
+[running shoe #17]: post-stage resting for 11 seconds

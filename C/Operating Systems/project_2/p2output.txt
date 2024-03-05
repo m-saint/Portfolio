@@ -1,0 +1,235 @@
+[player #0, team 3]:  card # 0 is (Tree Pose) (Plank Pose) 
+
+[player #1, team 1]:  card # 1 is (Tree Pose) 
+
+[player #2, team 2]:  card # 2 is (Warrior Stance) 
+
+[player #10, team 0]:  card # 3 is (Warrior Stance) (Tree Pose) 
+
+[player #0, team 3]:  reserved (Tree Pose) 
+[player #0, team 3]:  reserved (Plank Pose) 
+[player #0, team 3]:  hopping to (Tree Pose) 
+[player #2, team 2]:  reserved (Warrior Stance) 
+[player #2, team 2]:  hopping to (Warrior Stance) 
+[player #0, team 3]:  hopping off (Tree Pose) 
+[player #0, team 3]:  hopping to (Plank Pose) 
+[player #1, team 1]:  reserved (Tree Pose) 
+[player #1, team 1]:  hopping to (Tree Pose) 
+[player #2, team 2]:  hopping off (Warrior Stance) 
+[player #2, team 2]:  off the mat, tagging in teammate
+
+[player #1, team 1]:  hopping off (Tree Pose) 
+[player #1, team 1]:  off the mat, tagging in teammate
+
+[player #4, team 1]:  card # 4 is (Wheel Pose) (Warrior Stance) 
+
+[player #7, team 2]:  card # 4 is (Plank Pose) 
+
+[player #10, team 0]:  reserved (Warrior Stance) 
+[player #10, team 0]:  reserved (Tree Pose) 
+[player #10, team 0]:  hopping to (Warrior Stance) 
+[player #0, team 3]:  hopping off (Plank Pose) 
+[player #0, team 3]:  off the mat, tagging in teammate
+
+[player #3, team 3]:  card # 6 is (Wheel Pose) 
+
+[player #7, team 2]:  reserved (Plank Pose) 
+[player #7, team 2]:  hopping to (Plank Pose) 
+[player #3, team 3]:  reserved (Wheel Pose) 
+[player #3, team 3]:  hopping to (Wheel Pose) 
+[player #10, team 0]:  hopping off (Warrior Stance) 
+[player #10, team 0]:  hopping to (Tree Pose) 
+[player #7, team 2]:  hopping off (Plank Pose) 
+[player #7, team 2]:  off the mat, tagging in teammate
+
+[player #9, team 2]:  card # 7 is (Tree Pose) 
+
+[player #3, team 3]:  hopping off (Wheel Pose) 
+[player #3, team 3]:  off the mat, tagging in teammate
+
+[player #11, team 3]:  card # 8 is (Plank Pose) (Tree Pose) 
+
+[player #4, team 1]:  reserved (Wheel Pose) 
+[player #4, team 1]:  reserved (Warrior Stance) 
+[player #4, team 1]:  hopping to (Wheel Pose) 
+[player #4, team 1]:  hopping off (Wheel Pose) 
+[player #4, team 1]:  hopping to (Warrior Stance) 
+[player #10, team 0]:  hopping off (Tree Pose) 
+[player #10, team 0]:  off the mat, tagging in teammate
+
+[player #12, team 0]:  card # 9 is (Tree Pose) (Plank Pose) 
+
+[player #9, team 2]:  reserved (Tree Pose) 
+[player #9, team 2]:  hopping to (Tree Pose) 
+[player #9, team 2]:  hopping off (Tree Pose) 
+[player #9, team 2]:  off the mat, tagging in teammate
+
+[player #13, team 2]:  card # 10 is (Tree Pose) (Plank Pose) (Warrior Stance) (Wheel Pose) 
+
+[player #11, team 3]:  reserved (Plank Pose) 
+[player #11, team 3]:  reserved (Tree Pose) 
+[player #11, team 3]:  hopping to (Plank Pose) 
+[player #4, team 1]:  hopping off (Warrior Stance) 
+[player #4, team 1]:  off the mat, tagging in teammate
+
+[player #5, team 1]:  card # 11 is (Wheel Pose) 
+
+[player #5, team 1]:  reserved (Wheel Pose) 
+[player #5, team 1]:  hopping to (Wheel Pose) 
+[player #11, team 3]:  hopping off (Plank Pose) 
+[player #11, team 3]:  hopping to (Tree Pose) 
+[player #11, team 3]:  hopping off (Tree Pose) 
+[player #11, team 3]:  off the mat, tagging in teammate
+
+[player #14, team 3]:  card # 12 is (Warrior Stance) (Tree Pose) 
+
+[player #12, team 0]:  reserved (Tree Pose) 
+[player #12, team 0]:  reserved (Plank Pose) 
+[player #12, team 0]:  hopping to (Tree Pose) 
+[player #5, team 1]:  hopping off (Wheel Pose) 
+[player #5, team 1]:  off the mat, tagging in teammate
+
+[player #6, team 1]:  card # 13 is (Plank Pose) 
+
+[player #12, team 0]:  hopping off (Tree Pose) 
+[player #12, team 0]:  hopping to (Plank Pose) 
+[player #14, team 3]:  reserved (Warrior Stance) 
+[player #14, team 3]:  reserved (Tree Pose) 
+[player #14, team 3]:  hopping to (Warrior Stance) 
+[player #14, team 3]:  hopping off (Warrior Stance) 
+[player #14, team 3]:  hopping to (Tree Pose) 
+[player #12, team 0]:  hopping off (Plank Pose) 
+[player #12, team 0]:  off the mat, tagging in teammate
+
+[player #21, team 0]:  card # 14 is (Warrior Stance) (Plank Pose) (Wheel Pose) (Tree Pose) 
+
+[player #6, team 1]:  reserved (Plank Pose) 
+[player #6, team 1]:  hopping to (Plank Pose) 
+[player #6, team 1]:  hopping off (Plank Pose) 
+[player #6, team 1]:  off the mat, tagging in teammate
+
+[player #8, team 1]:  card # 15 is (Tree Pose) (Plank Pose) (Warrior Stance) 
+
+[player #14, team 3]:  hopping off (Tree Pose) 
+[player #14, team 3]:  off the mat, tagging in teammate
+
+[player #15, team 3]:  card # 16 is (Wheel Pose) (Warrior Stance) 
+
+[player #21, team 0]:  reserved (Warrior Stance) 
+[player #21, team 0]:  reserved (Plank Pose) 
+[player #21, team 0]:  reserved (Wheel Pose) 
+[player #21, team 0]:  reserved (Tree Pose) 
+[player #21, team 0]:  hopping to (Warrior Stance) 
+[player #21, team 0]:  hopping off (Warrior Stance) 
+[player #21, team 0]:  hopping to (Plank Pose) 
+[player #21, team 0]:  hopping off (Plank Pose) 
+[player #21, team 0]:  hopping to (Wheel Pose) 
+[player #21, team 0]:  hopping off (Wheel Pose) 
+[player #21, team 0]:  hopping to (Tree Pose) 
+[player #21, team 0]:  hopping off (Tree Pose) 
+[player #21, team 0]:  off the mat, tagging in teammate
+
+[player #27, team 0]:  card # 17 is (Warrior Stance) 
+
+[player #13, team 2]:  reserved (Tree Pose) 
+[player #13, team 2]:  reserved (Plank Pose) 
+[player #13, team 2]:  reserved (Warrior Stance) 
+[player #13, team 2]:  reserved (Wheel Pose) 
+[player #13, team 2]:  hopping to (Tree Pose) 
+[player #13, team 2]:  hopping off (Tree Pose) 
+[player #13, team 2]:  hopping to (Plank Pose) 
+[player #13, team 2]:  hopping off (Plank Pose) 
+[player #13, team 2]:  hopping to (Warrior Stance) 
+[player #13, team 2]:  hopping off (Warrior Stance) 
+[player #13, team 2]:  hopping to (Wheel Pose) 
+[player #13, team 2]:  hopping off (Wheel Pose) 
+[player #15, team 3]:  reserved (Wheel Pose) 
+[player #15, team 3]:  reserved (Warrior Stance) 
+[player #15, team 3]:  hopping to (Wheel Pose) 
+[player #13, team 2]:  off the mat, tagging in teammate
+
+[player #17, team 2]:  card # 18 is (Plank Pose) (Wheel Pose) (Tree Pose) (Warrior Stance) 
+
+[player #15, team 3]:  hopping off (Wheel Pose) 
+[player #15, team 3]:  hopping to (Warrior Stance) 
+[player #15, team 3]:  hopping off (Warrior Stance) 
+[player #15, team 3]:  off the mat, tagging in teammate
+
+[player #16, team 3]:  card # 19 is (Plank Pose) (Wheel Pose) (Warrior Stance) (Tree Pose) 
+
+[player #27, team 0]:  reserved (Warrior Stance) 
+[player #27, team 0]:  hopping to (Warrior Stance) 
+[player #27, team 0]:  hopping off (Warrior Stance) 
+[player #27, team 0]:  off the mat, tagging in teammate
+
+[player #17, team 2]:  reserved (Plank Pose) 
+[player #17, team 2]:  reserved (Wheel Pose) 
+[player #17, team 2]:  reserved (Tree Pose) 
+[player #17, team 2]:  reserved (Warrior Stance) 
+[player #17, team 2]:  hopping to (Plank Pose) 
+[player #30, team 0]:  card # 20 is (Warrior Stance) (Plank Pose) (Tree Pose) 
+
+[player #17, team 2]:  hopping off (Plank Pose) 
+[player #17, team 2]:  hopping to (Wheel Pose) 
+[player #17, team 2]:  hopping off (Wheel Pose) 
+[player #17, team 2]:  hopping to (Tree Pose) 
+[player #17, team 2]:  hopping off (Tree Pose) 
+[player #17, team 2]:  hopping to (Warrior Stance) 
+[player #17, team 2]:  hopping off (Warrior Stance) 
+[player #17, team 2]:  off the mat, tagging in teammate
+
+[player #25, team 2]:  card # 21 is (Wheel Pose) 
+
+[player #30, team 0]:  reserved (Warrior Stance) 
+[player #30, team 0]:  reserved (Plank Pose) 
+[player #30, team 0]:  reserved (Tree Pose) 
+[player #30, team 0]:  hopping to (Warrior Stance) 
+[player #30, team 0]:  hopping off (Warrior Stance) 
+[player #30, team 0]:  hopping to (Plank Pose) 
+[player #30, team 0]:  hopping off (Plank Pose) 
+[player #30, team 0]:  hopping to (Tree Pose) 
+[player #30, team 0]:  hopping off (Tree Pose) 
+[player #8, team 1]:  reserved (Tree Pose) 
+[player #8, team 1]:  reserved (Plank Pose) 
+[player #8, team 1]:  reserved (Warrior Stance) 
+[player #8, team 1]:  hopping to (Tree Pose) 
+[player #30, team 0]:  off the mat, tagging in teammate
+
+[player #31, team 0]:  card # 22 is (Plank Pose) (Tree Pose) (Warrior Stance) 
+
+[player #25, team 2]:  reserved (Wheel Pose) 
+[player #25, team 2]:  hopping to (Wheel Pose) 
+[player #8, team 1]:  hopping off (Tree Pose) 
+[player #8, team 1]:  hopping to (Plank Pose) 
+[player #8, team 1]:  hopping off (Plank Pose) 
+[player #8, team 1]:  hopping to (Warrior Stance) 
+[player #31, team 0]:  reserved (Plank Pose) 
+[player #31, team 0]:  reserved (Tree Pose) 
+[player #25, team 2]:  hopping off (Wheel Pose) 
+[player #25, team 2]:  off the mat, tagging in teammate
+
+[player #35, team 2]:  card # 23 is (Plank Pose) (Wheel Pose) (Warrior Stance) 
+
+[player #8, team 1]:  hopping off (Warrior Stance) 
+[player #8, team 1]:  off the mat, tagging in teammate
+
+[player #18, team 1]:  card # 24 is (Warrior Stance) (Plank Pose) (Wheel Pose) (Tree Pose) 
+
+[player #31, team 0]:  reserved (Warrior Stance) 
+[player #31, team 0]:  hopping to (Plank Pose) 
+[player #31, team 0]:  hopping off (Plank Pose) 
+[player #31, team 0]:  hopping to (Tree Pose) 
+[player #31, team 0]:  hopping off (Tree Pose) 
+[player #31, team 0]:  hopping to (Warrior Stance) 
+[player #31, team 0]:  hopping off (Warrior Stance) 
+[player #31, team 0]:  off the mat, tagging in teammate
+
+[player #16, team 3]:  reserved (Plank Pose) 
+[player #16, team 3]:  reserved (Wheel Pose) 
+[player #16, team 3]:  reserved (Warrior Stance) 
+[player #16, team 3]:  reserved (Tree Pose) 
+[player #16, team 3]:  hopping to (Plank Pose) 
+[player #32, team 0]:  card # 25 is (Tree Pose) (Warrior Stance) (Plank Pose) 
+
+[player #16, team 3]:  hopping off (Plank Pose) 
+[player #16, team 3]:  hopping to (Wheel Pose)

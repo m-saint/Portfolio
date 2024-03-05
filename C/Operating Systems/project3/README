@@ -1,0 +1,10 @@
+Myles St. Jean - Project 3
+
+overview:
+
+I use the memory array to store all page tables and virtual pages. I set up page tables as just a part of the array. My page table entries have the pfn, a read/write byte, and a presence byte. Each instruction works as specified. For swapping, I take a random approach, while making sure not to evict any crucial pages or page tables. My disk space has a designated space for each process' page table and virtual pages. Evictions are handled by evict, while swapping pages back in from disk is handled elsewhere as it's needed. 
+
+
+also see the comments in the code for implementation details
+
+i tested this program mainly by trying out different stages of load. Starting with handling one process, filling its virtual space, then adding more processes, then giving the instructions in the least convenient order possible to strain the swapping, etc. I just tried to run it through every possible scenario to make sure it never broke. this approach helped me keep track of where thing were going wrong, and let me fix major problems first and do the less commmon cases later.

@@ -1,0 +1,195 @@
+student@cs2324:~/project1$ ./happy
+seed value is 12345
+there will be 6 children
+waiting on pid 3943
+i am child, pid 3943, i will wait 3 seconds then exit with code 22
+ exiting
+child 3943 exited with code 22
+waiting on pid 3944
+i am child, pid 3944, i will wait 3 seconds then exit with code 24
+ exiting
+child 3944 exited with code 24
+waiting on pid 3945
+i am child, pid 3945, i will wait 2 seconds then exit with code 2
+ exiting
+child 3945 exited with code 2
+waiting on pid 3946
+i am child, pid 3946, i will wait 1 seconds then exit with code 22
+ exiting
+child 3946 exited with code 22
+waiting on pid 3947
+i am child, pid 3947, i will wait 1 seconds then exit with code 5
+ exiting
+child 3947 exited with code 5
+waiting on pid 3948
+i am child, pid 3948, i will wait 3 seconds then exit with code 38
+ exiting
+child 3948 exited with code 38
+
+
+student@cs2324:~/project1$ ./recursion
+seed value is 12345
+lifespan count will be 9 
+pid 3949 :  waiting on pid 3950
+pid 3950 :  current descendant count: 9, I will have 8 descendants
+pid 3950 :  waiting on pid 3951
+pid 3951 :  current descendant count: 8, I will have 7 descendants
+pid 3951 :  waiting on pid 3952
+pid 3952 :  current descendant count: 7, I will have 6 descendants
+pid 3952 :  waiting on pid 3953
+pid 3953 :  current descendant count: 6, I will have 5 descendants
+pid 3953 :  waiting on pid 3954
+pid 3954 :  current descendant count: 5, I will have 4 descendants
+pid 3954 :  waiting on pid 3955
+pid 3955 :  current descendant count: 4, I will have 3 descendants
+pid 3955 :  waiting on pid 3956
+pid 3956 :  current descendant count: 3, I will have 2 descendants
+pid 3956 :  waiting on pid 3957
+pid 3957 :  current descendant count: 2, I will have 1 descendants
+pid 3957 :  waiting on pid 3958
+pid 3958 :  current descendant count: 1, I will have 0 descendants
+pid 3957 : child 3958 exited with code 0, i will exit now
+pid 3956 : child 3957 exited with code 1, i will exit now
+pid 3955 : child 3956 exited with code 2, i will exit now
+pid 3954 : child 3955 exited with code 3, i will exit now
+pid 3953 : child 3954 exited with code 4, i will exit now
+pid 3952 : child 3953 exited with code 5, i will exit now
+pid 3951 : child 3952 exited with code 6, i will exit now
+pid 3950 : child 3951 exited with code 7, i will exit now
+pid 3949 : child 3950 exited with code 8, i will exit now
+
+
+student@cs2324:~/project1$ ./bunny
+seed value is 12345
+selected /usr
+/usr
+waiting on pid 3960
+doing ls -tr
+local  lib64  games  include  share  lib  lib32  libx32  src  sbin  libexec  bin
+child 3960 exited with code 0
+selected /sbin
+/usr/sbin
+waiting on pid 3961
+doing ls -tr
+update-fonts-alias	     xfs_info		mkfs.bfs	      gdisk			 integritysetup		   arptables-restore
+
+{...}
+
+xfs_io			     mkfs.cramfs	sgdisk		      veritysetup		 arptables-save
+child 3961 exited with code 0
+selected /sbin
+/usr/sbin
+waiting on pid 3962
+doing ls -tr
+update-fonts-alias	     xfs_info		mkfs.bfs	      gdisk			 integritysetup		   arptables-restore
+
+{...}
+
+xfs_io			     mkfs.cramfs	sgdisk		      veritysetup		 arptables-save
+child 3962 exited with code 0
+selected /proc
+/proc
+waiting on pid 3963
+doing ls -tr
+thread-self  92  356  238  180	11	 acpi	     811   503	 1239	  1674	1759  1874  1977  2973		    
+
+{...}
+
+version_signature  loadavg	    cpuinfo
+child 3962 exited with code 0
+selected /proc
+/proc
+waiting on pid 3963
+doing ls -tr
+thread-self  92  356  238  180	11	 acpi	     811   503	 1239	  1674	1759  1874  1977  2973		     
+
+{...}
+
+version_signature  loadavg	    cpuinfo
+child 3963 exited with code 0
+selected /usr
+/usr
+waiting on pid 3964
+doing ls -tr
+local  lib64  games  include  share  lib  lib32  libx32  src  sbin  libexec  bin
+child 3964 exited with code 0
+
+
+student@cs2324:~/project1$ ./waiter 3
+seed is 12345
+delay 7 seconds, flip result 1
+running id --group
+1000
+
+
+student@cs2324:~/project1$ ./www
+i created child 3967
+i created child 3968
+i created child 3969
+i created child 3970
+3967 is executing ./waiter 1
+3968 is executing ./waiter 2
+seed is 56789
+delay 7 seconds, flip result 1
+3969 is executing ./waiter 3
+3970 is executing ./waiter 4
+seed is 12345
+delay 7 seconds, flip result 1
+seed is 55555
+delay 6 seconds, flip result 0
+seed is 456
+delay 5 seconds, flip result 1
+3967 is still running
+3968 is still running
+3969 is still running
+3970 is still running
+3967 is still running
+3968 is still running
+3969 is still running
+3970 is still running
+3967 is still running
+3968 is still running
+3969 is still running
+3970 is still running
+3967 is still running
+3968 is still running
+3969 is still running
+3970 is still running
+3967 is still running
+3968 is still running
+3969 is still running
+3970 is still running
+3967 is still running
+3968 is still running
+3969 is still running
+3970 is still running
+running id --group
+1000
+3967 is still running
+3968 is still running
+3969 is still running
+child 3970 finished after 5.000000 seconds
+3967 is still running
+3968 is still running
+running last -i -x
+student  tty7         0.0.0.0          Fri Sep  8 17:52    gone - no logout
+
+{...}
+
+reboot   system boot  0.0.0.0          Wed Jul 19 22:04 - 22:37  (00:33)
+
+wtmp begins Wed Jul 19 22:04:51 2023
+3969 is still running
+child 3967 finished after 6.000000 seconds
+3968 is still running
+3969 is still running
+3968 is still running
+3969 is still running
+running id --group
+running id --group
+1000
+1000
+3968 is still running
+child 3969 finished after 7.000000 seconds
+child 3968 finished after 7.000000 seconds
+everybody is done, it took 7.000000 seconds
